@@ -1,0 +1,49 @@
+body{
+    background-color: #e8e5e5;
+}
+
+
+h1{
+    color: #014921;
+    font-family: gallique;
+}
+
+h3{
+    color: #014921;
+    font-family: gallique;
+}
+
+
+p{
+    color: #014921;
+    font-family: gallique;
+}
+
+
+table{
+    color: #014921;
+    font-family: gallique;
+}
+
+ol{
+    color: #014921;
+    font-family: gallique;
+}
+
+a{
+    color: #014921;
+    font-family: gallique;
+    text-decoration: none;
+}
+
+hr{
+    background-color: #014921;
+    border-style: none;
+    height: 1px;
+}
+
+img{
+    border-radius: 50%;
+    height: 200px;
+    width: auto;
+}
